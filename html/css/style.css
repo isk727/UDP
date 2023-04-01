@@ -1,0 +1,27 @@
+table { margin-left: 1rem; margin-top: 1rem; }
+td, th { padding: 5px 10px; }
+.buttonlg { width: 11rem; }
+.inputtext { border: none; color:red; font-weight:bold; }
+.table-css {
+    border-collapse: collapse;
+    width: 20em;
+}
+.td-css11 {
+    border: 1px solid black;
+    border-top-style:none;
+    border-left-style:none;
+}
+.td-css13 {
+    border-style:none;
+}
+.td-css1 {
+    border: 1px solid black;
+    white-space: nowrap;
+}
+.td-css2 {
+    border: 1px solid black;
+    font-size: 2em;
+    text-align: right;
+    font-weight: bold;
+    white-space: nowrap;
+}
